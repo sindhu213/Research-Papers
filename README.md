@@ -1,8 +1,9 @@
-# Research Papers
+## Research Papers
 
-|S.no | Paper | Paper Link | Current Status | Implementation | 
-|--- | --- | --- | --- |--- |
-|1 | Fine-tuning CNN Image Retrieval with No Human Annotation | https://arxiv.org/pdf/1711.02512v2.pdf | in progress | https://github.com/Sindhu213/Research-Papers/tree/master/cirtorch | 
+
+S.no| Title | Status | Code |
+| :-------- | :------- | :--------------------------------: | ----         
+|1 | [Fine-tuning CNN Image Retrieval with  No Human Annotation](https://arxiv.org/pdf/1711.02512v2.pdf) |`in progress` | [cirtorch](https://github.com/Sindhu213/Research-Papers/tree/master/cirtorch)|
 
 ----------------------------------------------------------------------
 
